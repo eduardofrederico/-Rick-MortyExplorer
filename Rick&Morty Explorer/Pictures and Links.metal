@@ -8,4 +8,7 @@
 #include <metal_stdlib>
 using namespace metal;
 
+/*
+ https://www.freepnglogos.com/pics/rick-and-morty - Banco de Imagens para o projeto
+ */
 
