@@ -12,7 +12,7 @@ class RMAPI {
     static private let basePath = "https://rickandmortyapi.com/api/character"
     static private let limit = 20
     
-    /*class func loadCharacters(name: String?, page: Int = 0, onComplete: @escaping (RMInfo?) -> Void) {
+    class func loadPersons(name: String?, page: Int = 0, onComplete: @escaping (RMInfo?) -> Void) {
         let offset = page * limit
         let startsWith: String
         if let name = name, !name.isEmpty {
@@ -30,6 +30,5 @@ class RMAPI {
          onComplete(RMInfo)
          }
          }
-    */
     
 }
