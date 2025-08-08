@@ -12,7 +12,7 @@ class RMAPI {
     static private let basePath = "https://rickandmortyapi.com/api/character"
     static private let limit = 20
     
-    class func loadPersons(name: String?, page: Int = 0, onComplete: @escaping (RMInfo?) -> Void) {
+    class func loadPersons(name: String?, page: Int = 0, onComplete: @escaping (PersonResults?) -> Void) {
         let offset = page * limit
         let startsWith: String
         if let name = name, !name.isEmpty {
@@ -21,14 +21,16 @@ class RMAPI {
             startsWith = ""
         }
         let url = basePath + "offset=\(offset)&limit=\(limit)&" + startsWith
-         Alamofire.request(url).responseJSON { (response) in
-         guard let data = response.data,
-         let RMInfo = try? JSONDecoder().decode(RMInfo.self, from: data), else {
-         onComplete(nil)
-         return
-         }
-         onComplete(RMInfo)
-         }
-         }
-    
+        /*
+        request(url).responseJSON { (response) in
+            guard let data = response.data,
+                  let PersonResults = try? JSONDecoder().decode(PersonResults.self, from: data), else {
+                onComplete(nil)
+                return
+            }
+            onComplete(PersonResults)
+        }
+        
+        */
+    }
 }

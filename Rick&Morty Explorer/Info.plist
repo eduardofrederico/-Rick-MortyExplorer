@@ -6,8 +6,6 @@
 	<array>
 		<string></string>
 	</array>
-	<key>Item 0</key>
-	<string>fonts/WubbaLubbaDubDub</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>

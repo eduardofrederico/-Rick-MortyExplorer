@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty ExplorerUITests.build/Objects-normal/x86_64/Rick&Morty ExplorerUITests-master.dia",
+    "emit-module-dependencies" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty ExplorerUITests.build/Objects-normal/x86_64/Rick&Morty ExplorerUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty ExplorerUITests.build/Objects-normal/x86_64/Rick&Morty ExplorerUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty ExplorerUITests.build/Objects-normal/x86_64/Rick&Morty ExplorerUITests-master.swiftdeps"
+  },
+  "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/Rick&Morty ExplorerUITests/Rick_Morty_ExplorerUITests.swift" : {
+    "const-values" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty ExplorerUITests.build/Objects-normal/x86_64/Rick_Morty_ExplorerUITests.swiftconstvalues",
+    "dependencies" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty ExplorerUITests.build/Objects-normal/x86_64/Rick_Morty_ExplorerUITests.d",
+    "diagnostics" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty ExplorerUITests.build/Objects-normal/x86_64/Rick_Morty_ExplorerUITests.dia",
+    "index-unit-output-path" : "/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty ExplorerUITests.build/Objects-normal/x86_64/Rick_Morty_ExplorerUITests.o",
+    "llvm-bc" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty ExplorerUITests.build/Objects-normal/x86_64/Rick_Morty_ExplorerUITests.bc",
+    "object" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty ExplorerUITests.build/Objects-normal/x86_64/Rick_Morty_ExplorerUITests.o",
+    "swift-dependencies" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty ExplorerUITests.build/Objects-normal/x86_64/Rick_Morty_ExplorerUITests.swiftdeps",
+    "swiftmodule" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty ExplorerUITests.build/Objects-normal/x86_64/Rick_Morty_ExplorerUITests~partial.swiftmodule"
+  },
+  "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/Rick&Morty ExplorerUITests/Rick_Morty_ExplorerUITestsLaunchTests.swift" : {
+    "const-values" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty ExplorerUITests.build/Objects-normal/x86_64/Rick_Morty_ExplorerUITestsLaunchTests.swiftconstvalues",
+    "dependencies" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty ExplorerUITests.build/Objects-normal/x86_64/Rick_Morty_ExplorerUITestsLaunchTests.d",
+    "diagnostics" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty ExplorerUITests.build/Objects-normal/x86_64/Rick_Morty_ExplorerUITestsLaunchTests.dia",
+    "index-unit-output-path" : "/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty ExplorerUITests.build/Objects-normal/x86_64/Rick_Morty_ExplorerUITestsLaunchTests.o",
+    "llvm-bc" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty ExplorerUITests.build/Objects-normal/x86_64/Rick_Morty_ExplorerUITestsLaunchTests.bc",
+    "object" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty ExplorerUITests.build/Objects-normal/x86_64/Rick_Morty_ExplorerUITestsLaunchTests.o",
+    "swift-dependencies" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty ExplorerUITests.build/Objects-normal/x86_64/Rick_Morty_ExplorerUITestsLaunchTests.swiftdeps",
+    "swiftmodule" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty ExplorerUITests.build/Objects-normal/x86_64/Rick_Morty_ExplorerUITestsLaunchTests~partial.swiftmodule"
+  }
+}

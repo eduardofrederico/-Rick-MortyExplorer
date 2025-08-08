@@ -29,7 +29,7 @@
                                         <color key="textColor" red="0.066940613090000003" green="0.16965499519999999" blue="0.098028250040000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                         <nil key="highlightedColor"/>
                                     </label>
-                                    <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="PRc-8S-oYG">
+                                    <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Digite um nome do ou pressione Enter" textAlignment="center" clearsOnBeginEditing="YES" minimumFontSize="17" clearButtonMode="whileEditing" translatesAutoresizingMaskIntoConstraints="NO" id="PRc-8S-oYG">
                                         <rect key="frame" x="37" y="158.66666666666669" width="320" height="34"/>
                                         <color key="backgroundColor" red="0.67509377000000004" green="0.86066979170000002" blue="0.74900633100000003" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                         <constraints>

@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Target 'Rick&Morty ExplorerUITests' in project 'Rick&Morty Explorer'
+➜ Explicit dependency on target 'Rick&Morty Explorer' in project 'Rick&Morty Explorer'
+Target 'Rick&Morty ExplorerTests' in project 'Rick&Morty Explorer'
+➜ Explicit dependency on target 'Rick&Morty Explorer' in project 'Rick&Morty Explorer'
+Target 'Rick&Morty Explorer' in project 'Rick&Morty Explorer' (no dependencies)

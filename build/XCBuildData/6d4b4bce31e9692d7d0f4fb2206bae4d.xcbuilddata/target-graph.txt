@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target 'Rick&Morty Explorer' in project 'Rick&Morty Explorer' (no dependencies)

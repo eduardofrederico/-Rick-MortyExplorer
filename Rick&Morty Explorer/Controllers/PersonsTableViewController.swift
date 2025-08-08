@@ -36,8 +36,8 @@ class PersonsTableViewController: UITableViewController {
         loadingPersons = true
         RMAPI.loadPersons(name: name, page: currentPage) { (info) in
             if let info = info {
-                self.persons += info.data.status
-                self.total = info.data.total
+                //self.persons = info.id
+                //self.total = info.data.total
                 print("Total:", self.total, "já incluídos:", self.persons.count)
                 DispatchQueue.main.async {
                     self.loadingPersons = false

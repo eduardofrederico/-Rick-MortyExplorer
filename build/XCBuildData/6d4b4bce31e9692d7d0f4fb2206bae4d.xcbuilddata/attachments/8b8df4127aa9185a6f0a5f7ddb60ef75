@@ -1,0 +1,78 @@
+{
+  "" : {
+    "diagnostics" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/Rick&Morty Explorer-master.dia",
+    "emit-module-dependencies" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/Rick&Morty Explorer-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/Rick&Morty Explorer-master-emit-module.dia",
+    "swift-dependencies" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/Rick&Morty Explorer-master.swiftdeps"
+  },
+  "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/Rick&Morty Explorer/AppDelegate.swift" : {
+    "const-values" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/AppDelegate.d",
+    "diagnostics" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/AppDelegate.dia",
+    "index-unit-output-path" : "/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/AppDelegate.o",
+    "llvm-bc" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/AppDelegate.bc",
+    "object" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/AppDelegate.o",
+    "swift-dependencies" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/Rick&Morty Explorer/Controllers/PersonsTableViewController.swift" : {
+    "const-values" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/PersonsTableViewController.swiftconstvalues",
+    "dependencies" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/PersonsTableViewController.d",
+    "diagnostics" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/PersonsTableViewController.dia",
+    "index-unit-output-path" : "/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/PersonsTableViewController.o",
+    "llvm-bc" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/PersonsTableViewController.bc",
+    "object" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/PersonsTableViewController.o",
+    "swift-dependencies" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/PersonsTableViewController.swiftdeps",
+    "swiftmodule" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/PersonsTableViewController~partial.swiftmodule"
+  },
+  "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/Rick&Morty Explorer/Controllers/ViewController.swift" : {
+    "const-values" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/ViewController.swiftconstvalues",
+    "dependencies" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/ViewController.d",
+    "diagnostics" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/ViewController.dia",
+    "index-unit-output-path" : "/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/ViewController.o",
+    "llvm-bc" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/ViewController.bc",
+    "object" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/ViewController.o",
+    "swift-dependencies" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/ViewController.swiftdeps",
+    "swiftmodule" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/ViewController~partial.swiftmodule"
+  },
+  "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/Rick&Morty Explorer/Models/RMAPI.swift" : {
+    "const-values" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/RMAPI.swiftconstvalues",
+    "dependencies" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/RMAPI.d",
+    "diagnostics" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/RMAPI.dia",
+    "index-unit-output-path" : "/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/RMAPI.o",
+    "llvm-bc" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/RMAPI.bc",
+    "object" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/RMAPI.o",
+    "swift-dependencies" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/RMAPI.swiftdeps",
+    "swiftmodule" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/RMAPI~partial.swiftmodule"
+  },
+  "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/Rick&Morty Explorer/Models/RMClasses.swift" : {
+    "const-values" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/RMClasses.swiftconstvalues",
+    "dependencies" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/RMClasses.d",
+    "diagnostics" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/RMClasses.dia",
+    "index-unit-output-path" : "/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/RMClasses.o",
+    "llvm-bc" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/RMClasses.bc",
+    "object" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/RMClasses.o",
+    "swift-dependencies" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/RMClasses.swiftdeps",
+    "swiftmodule" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/RMClasses~partial.swiftmodule"
+  },
+  "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/Rick&Morty Explorer/SceneDelegate.swift" : {
+    "const-values" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/SceneDelegate.d",
+    "diagnostics" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/SceneDelegate.dia",
+    "index-unit-output-path" : "/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/SceneDelegate.o",
+    "llvm-bc" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/SceneDelegate.bc",
+    "object" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/tqi_ecosta/Documents/Migration Project/-Rick-MortyExplorer/build/Rick&Morty Explorer.build/Debug-iphonesimulator/Rick&Morty Explorer.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}
